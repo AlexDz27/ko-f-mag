@@ -1,0 +1,19 @@
+.hero {
+  background-color: rgb(169, 169, 169);
+  height: 100vh;
+  text-align: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero__text-1 {
+  text-transform: uppercase;
+  margin-bottom: 4rem;
+}
+
+.hero__text-2 {
+  margin-bottom: 2.8rem;
+}
