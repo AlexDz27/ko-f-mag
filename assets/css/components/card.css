@@ -1,0 +1,12 @@
+.cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 2rem;
+}
+
+.card {
+  text-align: center;
+}
+/* .card > div:nth-child(1) {
+  display: inline;
+} */
