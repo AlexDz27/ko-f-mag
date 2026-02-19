@@ -1,2 +1,7 @@
 /* In this file you can add sloppy architectured styles when you're lazy */
 
+.to-del-1 {
+  width: 80px;
+  height: 80px;
+  background-color: gray;
+}
