@@ -4,6 +4,9 @@
   padding: 0 15px;
   box-sizing: border-box;
 }
+.cont--narrow {
+  max-width: 760px;
+}
 
 .main {
   padding-top: 1rem;
