@@ -2,10 +2,12 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   column-gap: 2rem;
+  row-gap: 1rem;
 }
 
 .card {
   text-align: center;
+  background-color: rgba(0, 0, 0, .1);
 }
 /* .card > div:nth-child(1) {
   display: inline;
